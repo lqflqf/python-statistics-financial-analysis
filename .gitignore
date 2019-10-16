@@ -1,0 +1,8 @@
+.DS_Store
+Pipfile.lock
+week 1/.ipynb_checkpoints/
+week 2/.ipynb_checkpoints/
+week 3/.ipynb_checkpoints/
+week 4/.ipynb_checkpoints/
+.gitattributes
+*.orig
